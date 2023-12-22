@@ -1,0 +1,26 @@
+.navbar
+{
+    background: crimson;
+    font-family: calibri;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navdiv
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo
+{
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+list a
