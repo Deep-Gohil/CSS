@@ -1,0 +1,47 @@
+#Basics
+{
+   
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 10;
+    padding-right: 10;
+    padding-top: 15;
+    padding-bottom: 15;
+
+}
+
+.p1
+{
+    background-color: rgb(227, 224, 224);
+    padding: 30px;
+    margin-right: 800px;
+}
+
+
+#p2
+{
+    background-color: rgb(206, 255, 239);
+}
+
+
+
+.p5
+{
+    padding:40px;
+    background-color: rgb(247, 174, 174);
+    color: red;
+
+}
+
+#p5
+{
+    color: brown;
+    background-color: grey;
+}
+
+#prg1
+{
+    color: brown;
+    background-color: rgb(220, 219, 219);
+    padding: 10px;
+}
