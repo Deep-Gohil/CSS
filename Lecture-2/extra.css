@@ -1,6 +1,10 @@
+body{
+    background-color: #52D3D8;
+}
+
 .navbar
 {
-    background: crimson;
+    background: #58a7e0;
     font-family: calibri;
     padding-right: 15px;
     padding-left: 15px;
@@ -23,4 +27,26 @@ li{
     list-style: none;
     display: inline-block;
 }
-list a
+
+li a
+{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+
+button
+{
+    background-color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 90px;
+}
+button a{
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+

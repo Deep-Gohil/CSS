@@ -1,0 +1,112 @@
+#main{
+    height: 500px;
+    width: 330px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(220, 228, 233);
+}
+
+#main2
+{
+    height: 446px;
+    width: 280px;
+    border: none;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+#image
+{
+    height: 250px;
+    align-items: center;
+    display: block;
+    margin: auto;
+    color: white;
+}
+
+#fea
+{
+    font: bold;
+    color: rgb(255, 60, 93);
+    text-align: center;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+#best
+{
+    color: rgb(36, 218, 36);
+    font-weight: bold;
+}
+
+#tres
+{
+    text-align: center;
+    margin-top: 5px;
+}
+#mrp
+{
+    text-align: center;
+    margin-top: 1px;
+    display: block;
+}
+
+#MRP
+{
+    color: rgb(112, 113, 113);
+}
+
+#cut
+{
+    text-decoration: line-through;
+}
+
+#pr
+{
+    color: black;
+}
+
+#off
+{
+    color: rgb(36, 218, 36);
+}
+
+#star
+{
+    align-items: center;
+    margin-left: 55px;
+}
+
+#num
+{
+    color: rgb(108, 110, 112);
+}
+
+/* #pre
+{
+    height: 41px;
+    width: 279px;
+    border: 1px solid black;
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(255, 60, 93);
+    font-weight: bold;
+} */
+
+#pre
+{
+    height: 35px;
+    width: 280px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(255, 60, 93);
+    text-align: center;
+    color: white;
+}
+
+p{
+    
+}

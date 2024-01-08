@@ -1,0 +1,39 @@
+.div1{
+    background-color: rgb(161, 156, 156);
+    height: 150px;
+    width: 1150px;
+    margin-left: 60px;
+   margin-top: 40px;
+}
+
+svg{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+#html1
+{
+    margin-left: 50px;
+    margin-top: 50px;
+    text-transform: capitalize;
+
+}
+
+#s1
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.div2{
+    background-color: rgb(161, 156, 156);
+    height: 150px;
+    width: 1150px;
+    margin-left: 60px;
+   margin-top: 40px;
+}
+
+svg1{
+    margin-top: 40px;
+    margin-left: 30px;
+}
