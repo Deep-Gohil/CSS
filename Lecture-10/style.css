@@ -1,0 +1,71 @@
+#perent{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    justify-content: space-around;
+}
+
+#box1
+{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    
+}
+
+#box1:hover{
+    transform: translate(15px);
+    cursor: pointer;
+    background-color: rgb(2, 205, 205);
+    transition: 0.5s;
+}
+
+#box2
+{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    
+}
+
+#box2:hover{
+    transform: rotate(45deg);
+    cursor: pointer;
+    background-color: rgb(2, 205, 205);
+    transition: 0.5s;
+}
+
+#box3
+{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    
+}
+
+#box3:hover{
+    transform: scale(1.15);
+    cursor: pointer;
+    background-color: rgb(2, 205, 205);
+    transition: 0.5s;
+}
+#box4
+{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    
+}
+
+#box4:hover{
+    transform: skew(45deg);
+    cursor: pointer;
+    background-color: rgb(2, 205, 205);
+    transition: 0.5s;
+}
+
+p{
+    margin-top: 40px;
+    text-align: center;
+}
