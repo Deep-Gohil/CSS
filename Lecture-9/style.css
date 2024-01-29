@@ -579,3 +579,28 @@ body {
     text-align: center;
     padding-top: 7px;
 }
+
+#insta
+{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+#face
+{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+#snap
+{
+    color: black;
+    font-size: 25px;
+    display: block;
+    text-decoration: none;
+}
