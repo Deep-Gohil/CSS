@@ -26,6 +26,12 @@ body{
     color: black;
     margin-top: 15px;
 }
+
+.ai :hover
+{
+    text-decoration: underline;
+}
+
 #ai
 {
     display: flex;
@@ -95,7 +101,7 @@ body{
 #nav2
 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     
 }
 
@@ -188,7 +194,7 @@ body{
 {
     margin-top: 55px;
     height: 250px;
-    width: 608px;
+    width: 530px;
     background-color: white;
     border: 2px solid black;
     border-radius: 13px;
@@ -205,6 +211,11 @@ body{
     top: -150px;
     right: -20px;
     height: 300px;
+}
+
+#ex
+{
+    margin-right: 20px;
 }
 
 #unlock
@@ -238,4 +249,230 @@ body{
     top: 30px;
     left: 30px;
     border: 0px;
+}
+
+
+#main-free
+{
+    display: flex;
+    width: 510px;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+#free-files
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    height: 60px;
+    width: 150px;
+    background-color: white;
+    border-radius: 9px;
+    background-color: rgb(85, 134, 203);
+    text-align: center;
+    padding-top: 10;
+}
+
+#curated
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    height: 60px;
+    width: 150px;
+    background-color: white;
+    border-radius: 9px;
+    background-color: rgb(85, 134, 203);
+    text-align: center;
+}
+#added
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    height: 60px;
+    width: 180px;
+    background-color: white;
+    border-radius: 9px;
+    background-color: rgb(85, 134, 203);
+    text-align: center;
+}
+
+/* #three-image
+{
+    height: 100px;
+    background-color: white;
+    width: 180px;
+} */
+
+#three-image
+{
+    height: 400px;
+    width: 95%;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 3%;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#three-one
+{
+    height: 300px;
+    width: 365px;
+    background-color: rgb(85, 134, 203);
+    border-radius: 10px;
+}
+
+#three-two
+{
+    height: 300px;
+    width: 365px;
+    background-color: rgb(85, 134, 203);
+    border-radius: 10px;
+}
+
+#three-three
+{
+    height: 300px;
+    width: 365px;
+    background-color: rgb(85, 134, 203);
+    border-radius: 10px;
+}
+
+#minimal
+{
+    border-radius: 10px 10px 0px 0px;
+    position: relative;
+    display: flex;
+    justify-content: center;    
+}
+
+#three-one > p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+#three-one > div > h5{
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+#dw
+{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#download-image
+{
+    font-size: 25px;
+    color: rgb(75, 67, 67);
+}
+
+#perent
+{
+    display: flex;
+    justify-content: center;
+}
+
+#down
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(75, 67, 67);
+    font-size: 20px;
+}
+
+#perent-box
+{
+    height: 600px;
+    width: 400px;
+    background-color: white;
+}
+
+#f-perent
+{
+    display: flex;
+    justify-content: center;
+}
+
+#google
+{
+    height: 45px;
+    width: 320px;
+    border-radius: 5px;
+    border: 2px solid black;
+    display: flex;
+    /* justify-content: center; */
+    margin-bottom: 10px;
+}
+
+#main-google
+{
+    /* display: flex; */
+    justify-content: center;
+    position: relative;
+    top: 20px;
+    margin-left: 10%;
+    
+}
+
+#goog
+{
+    margin-right: 15px;
+}
+
+#google > img
+{
+   margin: 8px;
+}
+
+#google > a > p{
+    margin-left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#google > a
+{
+    text-decoration: none;
+}
+
+#apple
+{
+
+    margin-right: 10px;
+}
+
+#apple
+{
+    height: 45px;
+    width: 320px;
+    border-radius: 5px;
+    border: 2px solid black;
+    display: flex;
+    /* justify-content: center; */
+    margin-bottom: 10px;
+}
+
+#apple > img{
+    margin-right: 50px;
+    margin-top: 6px;
+    margin-left: -5px;
+}
+
+#apple > a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
 }
