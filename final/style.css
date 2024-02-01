@@ -550,8 +550,8 @@ body {
     justify-content: center;
     height: 50px;
     /* border: 2px solid black; */
-    background-color: white;
     font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1%;
 }
 
 #free2
@@ -561,7 +561,6 @@ body {
     height: 20px;
     font-size: 15px;
     /* border: 2px solid black; */
-    background-color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 #free3
@@ -571,7 +570,6 @@ body {
     height: 20px;
     font-size: 15px;
     /* border: 2px solid black; */
-    background-color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -597,12 +595,66 @@ body {
 {
     display: flex;
     justify-content: center;
-    background-color: white;
     height: 50px;
 }
 
-#accc
+#abcd
 {
-    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+#abc
+{
+    border-radius: 7px;
+    margin-top: 2%;
+    height: 40px;
+    width: 200px;
+    background-color: rgb(85, 134, 203);
+}
+
+#ab
+{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 6%;
+}
+
+#perent-footer
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    height: 300px;
+    background-color: rgb(48, 44, 44);
+}
+
+#elements
+{
+    color: rgb(85, 134, 203);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#elements > a{
+    display: block;
+    margin-top: 10%;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#userName
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#user-namef
+{
     height: 30px;
+    width: 300px;
 }
