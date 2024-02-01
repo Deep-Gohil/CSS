@@ -1,17 +1,15 @@
-body{
+body {
     background-color: rgb(210, 209, 209);
 }
 
-#navigation
-{
+#navigation {
     display: flex;
     background-color: rgb(85, 134, 203);
     margin: 0px;
 }
 
 
-#input1
-{
+#input1 {
     height: 30px;
     margin-top: 12px;
     margin-left: 70px;
@@ -19,21 +17,18 @@ body{
     width: 250px;
 }
 
-.ai
-{
+.ai {
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
-    color: black;
+    color: white;
     margin-top: 15px;
 }
 
-.ai :hover
-{
+.ai :hover {
     text-decoration: underline;
 }
 
-#ai
-{
+#ai {
     display: flex;
     justify-content: space-between;
     width: 230px;
@@ -42,8 +37,7 @@ body{
     margin-left: 80px;
 }
 
-#icon-se
-{
+#icon-se {
     height: 34px;
     border: 1px solid black;
     margin-top: 12px;
@@ -52,7 +46,7 @@ body{
     border-radius: 0px 7px 7px 0px;
 }
 
-#icon-se > i{
+#icon-se>i {
 
     color: white;
     display: flex;
@@ -60,8 +54,7 @@ body{
     justify-content: center;
 }
 
-#download
-{
+#download {
     height: 35px;
     width: 300px;
     border: 1px solid black;
@@ -72,8 +65,7 @@ body{
     border-radius: 8px;
 }
 
-#download:hover
-{
+#download:hover {
     height: 40px;
     width: 300px;
     border: 1px solid black;
@@ -84,13 +76,12 @@ body{
     border-radius: 8px;
 }
 
-#user > i{
+#user>i {
     margin-top: 20px;
     margin-left: 70px;
 }
 
-#ex
-{
+#ex {
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 4px;
     margin-left: 7px;
@@ -98,26 +89,24 @@ body{
 
 /* nav2 */
 
-#nav2
-{
+#nav2 {
     display: flex;
     justify-content: space-evenly;
-    
+
 }
 
-.n2
-{
+.n2 {
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     margin-top: 20px;
 }
 
-.n2:hover{
+.n2:hover {
     text-decoration: underline;
 }
 
-#f-box{
+#f-box {
     margin: 30px;
     height: 300px;
     width: 650px;
@@ -126,8 +115,7 @@ body{
     border-radius: 15px;
 }
 
-#beta
-{
+#beta {
     font-size: 15px;
     margin-left: 20px;
     /* display: flex;
@@ -141,11 +129,10 @@ body{
     text-align: center;
     background-color: black;
     border-radius: 5px;
-    background-image: linear-gradient(to right, rgb(12, 12, 234),rgb(94, 148, 243));
+    background-image: linear-gradient(to right, rgb(12, 12, 234), rgb(94, 148, 243));
 }
 
-#ai-search
-{
+#ai-search {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
     font: bolder;
@@ -155,8 +142,7 @@ body{
     display: flex;
 }
 
-#start-ai
-{
+#start-ai {
     position: relative;
     top: 90px;
     left: 22px;
@@ -165,33 +151,30 @@ body{
 
 }
 
-#start-ai > a{
+#start-ai>a {
     text-decoration: none;
     color: rgb(85, 134, 203);
 }
 
-#start-ai > a > i{
+#start-ai>a>i {
     color: rgb(85, 134, 203);
     margin-left: 10px;
 }
 
-#describe
-{
+#describe {
     position: relative;
     top: 70px;
     left: 22px;
 }
 
-#image1
-{
+#image1 {
     justify-content: end;
     height: 200px;
     margin-left: 62px;
     margin-top: 35px;
 }
 
-#s-box
-{
+#s-box {
     margin-top: 55px;
     height: 250px;
     width: 530px;
@@ -200,12 +183,11 @@ body{
     border-radius: 13px;
 }
 
-#main
-{
+#main {
     display: flex;
 }
 
-#s-box > img{
+#s-box>img {
     float: right;
     position: relative;
     top: -150px;
@@ -213,13 +195,11 @@ body{
     height: 300px;
 }
 
-#ex
-{
+#ex {
     margin-right: 20px;
 }
 
-#unlock
-{
+#unlock {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     /* margin-left: 30px; */
@@ -228,8 +208,7 @@ body{
     left: 30px;
 }
 
-#price
-{
+#price {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
     position: relative;
@@ -237,7 +216,7 @@ body{
     left: 30px;
 }
 
-#butt{
+#butt {
     color: white;
     background-color: rgb(85, 134, 203);
     border-radius: 5px;
@@ -252,8 +231,7 @@ body{
 }
 
 
-#main-free
-{
+#main-free {
     display: flex;
     width: 510px;
     justify-content: space-between;
@@ -261,8 +239,7 @@ body{
     margin-top: 30px;
 }
 
-#free-files
-{
+#free-files {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     font-size: 20px;
@@ -275,8 +252,7 @@ body{
     padding-top: 10;
 }
 
-#curated
-{
+#curated {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     font-size: 20px;
@@ -287,8 +263,8 @@ body{
     background-color: rgb(85, 134, 203);
     text-align: center;
 }
-#added
-{
+
+#added {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     font-size: 20px;
@@ -307,8 +283,7 @@ body{
     width: 180px;
 } */
 
-#three-image
-{
+#three-image {
     height: 400px;
     width: 95%;
     background-color: white;
@@ -319,39 +294,35 @@ body{
     justify-content: space-between;
 }
 
-#three-one
-{
+#three-one {
     height: 300px;
     width: 365px;
     background-color: rgb(85, 134, 203);
     border-radius: 10px;
 }
 
-#three-two
-{
+#three-two {
     height: 300px;
     width: 365px;
     background-color: rgb(85, 134, 203);
     border-radius: 10px;
 }
 
-#three-three
-{
+#three-three {
     height: 300px;
     width: 365px;
     background-color: rgb(85, 134, 203);
     border-radius: 10px;
 }
 
-#minimal
-{
+#minimal {
     border-radius: 10px 10px 0px 0px;
     position: relative;
     display: flex;
-    justify-content: center;    
+    justify-content: center;
 }
 
-#three-one > p{
+#three-one>p {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     font-size: 20px;
@@ -360,7 +331,7 @@ body{
     margin-bottom: 20px;
 }
 
-#three-one > div > h5{
+#three-one>div>h5 {
     margin-top: 0px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
@@ -368,47 +339,41 @@ body{
     justify-content: center;
 }
 
-#dw
-{
+#dw {
     display: flex;
     justify-content: space-evenly;
 
 }
 
-#download-image
-{
+#download-image {
     font-size: 25px;
     color: rgb(75, 67, 67);
 }
 
-#perent
-{
+#perent {
     display: flex;
     justify-content: center;
 }
 
-#down
-{
+#down {
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(75, 67, 67);
     font-size: 20px;
 }
 
-#perent-box
-{
+#perent-box {
     height: 600px;
     width: 400px;
     background-color: white;
+    border-radius: 10px;
 }
 
-#f-perent
-{
+#f-perent {
     display: flex;
     justify-content: center;
 }
 
-#google
-{
+#google {
     height: 45px;
     width: 320px;
     border-radius: 5px;
@@ -418,45 +383,39 @@ body{
     margin-bottom: 10px;
 }
 
-#main-google
-{
+#main-google {
     /* display: flex; */
     justify-content: center;
     position: relative;
     top: 20px;
     margin-left: 10%;
-    
+
 }
 
-#goog
-{
+#goog {
     margin-right: 15px;
 }
 
-#google > img
-{
-   margin: 8px;
+#google>img {
+    margin: 8px;
 }
 
-#google > a > p{
+#google>a>p {
     margin-left: 45px;
     font-family: Arial, Helvetica, sans-serif;
-    
+
 }
 
-#google > a
-{
+#google>a {
     text-decoration: none;
 }
 
-#apple
-{
+#apple {
 
     margin-right: 10px;
 }
 
-#apple
-{
+#apple {
     height: 45px;
     width: 320px;
     border-radius: 5px;
@@ -466,13 +425,184 @@ body{
     margin-bottom: 10px;
 }
 
-#apple > img{
+#apple>img {
     margin-right: 50px;
     margin-top: 6px;
     margin-left: -5px;
 }
 
-#apple > a{
+#apple>a {
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
+}
+
+#or {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 8%;
+    font-size: 14px;
+}
+
+#perent-user {
+    height: 120px;
+    width: 320px;
+    /* border: 2px solid black; */
+    position: relative;
+    top: 10%;
+    left: 10%;
+    border-radius: 10px;
+}
+
+#userNAme {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+#ur {
+    display: flex;
+    justify-content: space-between;
+}
+
+#rem {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: rgb(55, 55, 248);
+}
+
+#user-name {
+    height: 35px;
+    width: 312px;
+    position: relative;
+    top: 10%;
+    bottom: 10%;
+}
+
+#user-pass {
+    height: 35px;
+    width: 312px;
+    position: relative;
+    top: 1%;
+}
+
+#userPass {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 25px;
+}
+
+#forgot {
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: rgb(55, 55, 248);
+}
+
+#perent-submit
+{
+    display: flex;
+    justify-content: center;
+}
+#submit
+{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 30px;
+    width: 320px;
+    margin-top: 15%;
+    background-color: rgb(75, 67, 67);
+    border-radius: 3px;
+}
+
+#submit :hover
+{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 30px;
+    width: 320px;
+    margin-top: 15%;
+    background-color: rgb(48, 44, 44);
+    border-radius: 3px;
+}
+
+#create
+{
+    display: flex;
+    justify-content: center;
+}
+
+#cre
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+#blue
+{
+    color: rgb(55, 55, 248);
+}
+
+#free12
+{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    /* border: 2px solid black; */
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#free2
+{
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    font-size: 15px;
+    /* border: 2px solid black; */
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#free3
+{
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    font-size: 15px;
+    /* border: 2px solid black; */
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#free4
+{
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#free4
+{
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    
+}
+
+#acc
+{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    height: 50px;
+}
+
+#accc
+{
+    background-color: aqua;
+    height: 30px;
 }
