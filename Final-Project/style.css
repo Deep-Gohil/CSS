@@ -1,0 +1,96 @@
+body{
+    background-image: url(./hero_1.jpg.webp) ;
+}
+
+
+#navigation
+{
+    
+    height: 70px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#solictor
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    left: 9%;
+}
+
+#menu
+{
+    width: 500px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#menu > a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#number
+{
+    height: 70px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    right: 8%;
+}
+
+#call-icon
+{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(121, 116, 116);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    color: white;
+}
+#num
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header
+{
+    height: 250px;
+    width: 500px;
+    margin-top: 5%;
+    /* background-color: white; */
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+}
+
+#header > p
+{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+
+}
+
+#service
+{
+    height: 80px;
+    width: 300px;
+    background-color: white;
+}

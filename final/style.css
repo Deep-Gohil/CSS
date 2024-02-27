@@ -501,13 +501,12 @@ body {
     color: rgb(55, 55, 248);
 }
 
-#perent-submit
-{
+#perent-submit {
     display: flex;
     justify-content: center;
 }
-#submit
-{
+
+#submit {
     font-family: Arial, Helvetica, sans-serif;
     height: 30px;
     width: 320px;
@@ -516,8 +515,7 @@ body {
     border-radius: 3px;
 }
 
-#submit :hover
-{
+#submit :hover {
     font-family: Arial, Helvetica, sans-serif;
     height: 30px;
     width: 320px;
@@ -526,25 +524,21 @@ body {
     border-radius: 3px;
 }
 
-#create
-{
+#create {
     display: flex;
     justify-content: center;
 }
 
-#cre
-{
+#cre {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
 }
 
-#blue
-{
+#blue {
     color: rgb(55, 55, 248);
 }
 
-#free12
-{
+#free12 {
     margin-top: 5%;
     display: flex;
     justify-content: center;
@@ -554,17 +548,7 @@ body {
     margin-bottom: 1%;
 }
 
-#free2
-{
-    display: flex;
-    justify-content: center;
-    height: 20px;
-    font-size: 15px;
-    /* border: 2px solid black; */
-    font-family: Arial, Helvetica, sans-serif;
-}
-#free3
-{
+#free2 {
     display: flex;
     justify-content: center;
     height: 20px;
@@ -573,8 +557,16 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#free4
-{
+#free3 {
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    font-size: 15px;
+    /* border: 2px solid black; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#free4 {
     margin-top: 3%;
     display: flex;
     justify-content: center;
@@ -583,29 +575,25 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#free4
-{
+#free4 {
     height: 50px;
     width: 200px;
     background-color: black;
-    
+
 }
 
-#acc
-{
+#acc {
     display: flex;
     justify-content: center;
     height: 50px;
 }
 
-#abcd
-{
+#abcd {
     display: flex;
     justify-content: center;
 }
 
-#abc
-{
+#abc {
     border-radius: 7px;
     margin-top: 2%;
     height: 40px;
@@ -613,8 +601,7 @@ body {
     background-color: rgb(85, 134, 203);
 }
 
-#ab
-{
+#ab {
     text-decoration: none;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -623,8 +610,7 @@ body {
     margin-top: 6%;
 }
 
-#perent-footer
-{
+#perent-footer {
     display: flex;
     justify-content: space-evenly;
     margin-top: 5%;
@@ -632,13 +618,12 @@ body {
     background-color: rgb(48, 44, 44);
 }
 
-#elements
-{
+#elements {
     color: rgb(85, 134, 203);
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#elements > a{
+#elements>a {
     display: block;
     margin-top: 10%;
     text-decoration: none;
@@ -646,15 +631,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#userName
-{
+#userName {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     margin-bottom: 10px;
 }
 
-#user-namef
-{
+#user-namef {
     height: 30px;
     width: 300px;
 }
